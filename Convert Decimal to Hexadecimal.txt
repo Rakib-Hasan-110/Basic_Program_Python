@@ -1,0 +1,9 @@
+# Python program to convert decimal to hexadecimal
+
+# Getting the decimal value from user
+decimal = int(input("Enter the decimal value for conversion: "))
+
+# converting using built-in function hex()
+hex = hex(decimal)
+
+print("The equivalent hexadecimal value is: ", hex)
