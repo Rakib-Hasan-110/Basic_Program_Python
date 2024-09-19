@@ -1,0 +1,12 @@
+# Python program to find smallest number in a list
+
+# Given list of numbers
+lis = [89, 100, 35, 16, 99]
+
+# sorting the given list "lis"
+# sort() function sorts the list in ascending order
+lis.sort()
+
+# Displaying the first element of the list
+# which is the smallest number in the sorted list
+print("Smallest number in the list is:", lis[0])
