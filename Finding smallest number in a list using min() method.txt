@@ -1,0 +1,8 @@
+# Python program to find smallest number in the
+# given list using min() method
+
+# Given list of numbers
+lis = [9, 100, 3, 16, 60]
+
+# min() method returns the smallest element of the list
+print("Smallest number of the list is:", min(lis))
